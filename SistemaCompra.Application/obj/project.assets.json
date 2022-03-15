@@ -6623,11 +6623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
+      "projectUniqueName": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
       "projectName": "SistemaCompra.Application",
-      "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
+      "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
       "packagesPath": "C:\\Users\\bsi95319\\.nuget\\packages\\",
-      "outputPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\obj\\",
+      "outputPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bsi95319\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6646,11 +6646,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
-              "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
+            "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
+              "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
             },
-            "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
-              "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
+            "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
+              "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
             }
           }
         }

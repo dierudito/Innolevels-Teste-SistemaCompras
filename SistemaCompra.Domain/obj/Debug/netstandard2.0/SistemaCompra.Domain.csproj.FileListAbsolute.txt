@@ -20,3 +20,16 @@ C:\Projetos\SistemaCompras-v3\SistemaCompra.Domain\obj\Debug\netstandard2.0\Sist
 C:\Projetos\SistemaCompras-v3\SistemaCompra.Domain\obj\Debug\netstandard2.0\SistemaCompra.Domain.csproj.CopyComplete
 C:\Projetos\SistemaCompras-v3\SistemaCompra.Domain\obj\Debug\netstandard2.0\SistemaCompra.Domain.dll
 C:\Projetos\SistemaCompras-v3\SistemaCompra.Domain\obj\Debug\netstandard2.0\SistemaCompra.Domain.pdb
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\bin\Debug\netstandard2.0\SistemaCompra.Domain.deps.json
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\bin\Debug\netstandard2.0\SistemaCompra.Domain.dll
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\bin\Debug\netstandard2.0\SistemaCompra.Domain.pdb
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.dll
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.pdb
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\obj\Debug\netstandard2.0\SistemaCompra.Domain.csproj.AssemblyReference.cache
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\obj\Debug\netstandard2.0\SistemaCompra.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\obj\Debug\netstandard2.0\SistemaCompra.Domain.AssemblyInfoInputs.cache
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\obj\Debug\netstandard2.0\SistemaCompra.Domain.AssemblyInfo.cs
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\obj\Debug\netstandard2.0\SistemaCompra.Domain.csproj.CoreCompileInputs.cache
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\obj\Debug\netstandard2.0\SistemaCompra.Domain.csproj.CopyComplete
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\obj\Debug\netstandard2.0\SistemaCompra.Domain.dll
+C:\sources\pessoal\Innolevels-Teste-SistemaCompras\SistemaCompra.Domain\obj\Debug\netstandard2.0\SistemaCompra.Domain.pdb

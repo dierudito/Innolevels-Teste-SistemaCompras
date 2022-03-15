@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PjPHweI9TJfGyI1qCDOiZhQrKbiBoscMEDd9NGhB5UU5xA8i4xOjr+9LHBmM8+anWQibqWqyrpSGo4arjVICdA==",
+  "dgSpecHash": "ZOWhn06Mfhr5V8XjqYKs5uoyP/TTYI1ac62ms/dJxlWtGZdXwQP7Kl76XOLRjcLEL5ZCVaEcwNS2p9GTonBIzQ==",
   "success": true,
-  "projectFilePath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj",
+  "projectFilePath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bsi95319\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
     "C:\\Users\\bsi95319\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

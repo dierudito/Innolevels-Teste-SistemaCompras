@@ -8915,11 +8915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj",
+      "projectUniqueName": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.API\\SistemaCompra.API.csproj",
       "projectName": "SistemaCompra.API",
-      "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj",
+      "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.API\\SistemaCompra.API.csproj",
       "packagesPath": "C:\\Users\\bsi95319\\.nuget\\packages\\",
-      "outputPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.API\\obj\\",
+      "outputPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bsi95319\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8938,11 +8938,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
-              "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj"
+            "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
+              "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj"
             },
-            "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
-              "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
+            "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
+              "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
             }
           }
         }
@@ -9016,24 +9016,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.23, 3.1.23]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

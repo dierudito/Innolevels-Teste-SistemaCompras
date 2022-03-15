@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cGAtqb38VTT5Tyrir+8Q968xjebSmYkYm/crArgNjOcx1pBmTd5nuTMUjBoLfm7CufT8twfDzo8RwvSY+I1Q+Q==",
+  "dgSpecHash": "WdC0BZkPfcLuEj+4BipymSsNNelhStGCny2kUYuHBD8qi97iqoynCvRunuJLuJANGt3zDhJlaRfDPyu+0ZOidg==",
   "success": true,
-  "projectFilePath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
+  "projectFilePath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bsi95319\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\bsi95319\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",

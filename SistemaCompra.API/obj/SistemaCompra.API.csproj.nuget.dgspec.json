@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj": {}
+    "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.API\\SistemaCompra.API.csproj": {}
   },
   "projects": {
-    "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj": {
+    "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.API\\SistemaCompra.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj",
+        "projectUniqueName": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.API\\SistemaCompra.API.csproj",
         "projectName": "SistemaCompra.API",
-        "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj",
+        "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.API\\SistemaCompra.API.csproj",
         "packagesPath": "C:\\Users\\bsi95319\\.nuget\\packages\\",
-        "outputPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.API\\obj\\",
+        "outputPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bsi95319\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,11 +30,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
-                "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj"
+              "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
+                "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj"
               },
-              "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
-                "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
+              "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
+                "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
               }
             }
           }
@@ -108,24 +108,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.23, 3.1.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -138,14 +120,14 @@
         }
       }
     },
-    "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
+    "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
+        "projectUniqueName": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
         "projectName": "SistemaCompra.Application",
-        "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
+        "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
         "packagesPath": "C:\\Users\\bsi95319\\.nuget\\packages\\",
-        "outputPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Application\\obj\\",
+        "outputPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bsi95319\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,11 +146,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
-                "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
+              "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
+                "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
               },
-              "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
-                "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
+              "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
+                "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
               }
             }
           }
@@ -216,14 +198,14 @@
         }
       }
     },
-    "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj": {
+    "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+        "projectUniqueName": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
         "projectName": "SistemaCompra.Domain.Core",
-        "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+        "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\bsi95319\\.nuget\\packages\\",
-        "outputPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\obj\\",
+        "outputPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bsi95319\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -279,14 +261,14 @@
         }
       }
     },
-    "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
+    "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
+        "projectUniqueName": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
         "projectName": "SistemaCompra.Domain",
-        "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
+        "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
         "packagesPath": "C:\\Users\\bsi95319\\.nuget\\packages\\",
-        "outputPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain\\obj\\",
+        "outputPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bsi95319\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -305,8 +287,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj": {
-                "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj"
+              "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj": {
+                "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj"
               }
             }
           }
@@ -342,14 +324,14 @@
         }
       }
     },
-    "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
+    "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj",
+        "projectUniqueName": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj",
         "projectName": "SistemaCompra.Infra.Data",
-        "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj",
+        "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\bsi95319\\.nuget\\packages\\",
-        "outputPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\obj\\",
+        "outputPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bsi95319\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -368,8 +350,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
-                "projectPath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
+              "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
+                "projectPath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
               }
             }
           }

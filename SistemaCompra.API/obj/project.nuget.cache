@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Y0MZDGHUOVRdNt20bq3iJNq9fMjHNBMaQAa2tWbgWD2OECdGqyN1cMaNf997K5Ug31cdVmAaSmZOgXUyXkVYQ==",
+  "dgSpecHash": "/dsNd1bgKL364ynSFnOOFzebJ6JLL7/DQVEUtWudIcaNtKEw1vo9BJbJ76XxI2QoUMnSwuH0uBjMyb2TKkjH+Q==",
   "success": true,
-  "projectFilePath": "C:\\sources\\pessoal\\teste-pratico\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj",
+  "projectFilePath": "C:\\sources\\pessoal\\Innolevels-Teste-SistemaCompras\\SistemaCompra.API\\SistemaCompra.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bsi95319\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\bsi95319\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
@@ -178,11 +178,7 @@
     "C:\\Users\\bsi95319\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\bsi95319\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\bsi95319\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\bsi95319\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\bsi95319\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
-    "C:\\Users\\bsi95319\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\bsi95319\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\bsi95319\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\bsi95319\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
