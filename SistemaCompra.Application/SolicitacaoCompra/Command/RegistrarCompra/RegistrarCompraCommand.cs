@@ -1,6 +1,5 @@
-﻿using ProdutoAgg = SistemaCompra.Domain.ProdutoAggregate;
-using System.Collections.Generic;
-using MediatR;
+﻿using MediatR;
+using SistemaCompra.Domain.SolicitacaoCompraAggregate;
 
 namespace SistemaCompra.Application.SolicitacaoCompra.Command.RegistrarCompra
 {
@@ -8,7 +7,6 @@ namespace SistemaCompra.Application.SolicitacaoCompra.Command.RegistrarCompra
     {
         public string UsuarioSolicitante { get; set; }
         public string NomeFornecedor { get; set; }
-        public ProdutoAgg.Produto Produto { get; set; }
-        public int Quantidade { get; set; }
+        public Item[] itens { get; set; }
     }
 }

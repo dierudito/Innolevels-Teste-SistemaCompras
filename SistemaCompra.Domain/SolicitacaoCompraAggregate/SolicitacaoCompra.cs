@@ -19,9 +19,11 @@ namespace SistemaCompra.Domain.SolicitacaoCompraAggregate
         public Situacao Situacao { get; private set; }
         public CondicaoPagamento CondicaoPagamento { get; private set; }
 
-        private SolicitacaoCompra() { }
+        private SolicitacaoCompra()
+        {
+            Itens = new List<Item>(); }
 
-        public SolicitacaoCompra(string usuarioSolicitante, string nomeFornecedor)
+        public SolicitacaoCompra(string usuarioSolicitante, string nomeFornecedor):this()
         {
             Id = Guid.NewGuid();
             UsuarioSolicitante = new UsuarioSolicitante(usuarioSolicitante);
